@@ -1,13 +1,13 @@
-# [OH Theme](http://oh.com)
+# [VIP Theme](http://vipaccessvallarta.com)
 
-Desarrollo web del nuevo sitio de OH! Travel Marketing
+Desarrollo web del nuevo sitio de VIP Access Vallarta
 
-* Project: [bitbucket.org/ooh2017/oh/](https://bitbucket.org/ooh2017/oh/src)
-* Website: [oh.com](http://oh.com)
-* Twitter: [@oh](http://twitter.com/oh)
-* Author : [Oh Travel](http://oh.com) // [@oh](http://twitter.com/oh)
+* Project: [https://github.com/jestradadeveloper/viptema](https://github.com/jestradadeveloper/viptema)
+* Website: [vipaccessvallarta.com](http://vipaccessvallarta.com)
+* Twitter: [@vipaccessvallarta](http://twitter.com/vipaccessvallarta)
+* Author : [Rayuela Organica](http://rayuelaorganica.com)
 
-## Desarrolladores
-[Brenda Polanco](https://github.com/BrendaLiliana), [Jose Estrada](https://github.com/josemaesma), [Anselme](https://github.com/anseleme01).
+## Desarrollador
+[Jose Maria Estrada](https://github.com/jestradadeveloper)
 
 # viptema
