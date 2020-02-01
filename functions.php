@@ -791,7 +791,7 @@ function custom_post_portfolio() {
     register_post_type( 'Galeria', $args );
 
 }
-add_action( 'init', 'custom_post_galeria', 0 );
+
 
 
 /*------------------------------------*\
